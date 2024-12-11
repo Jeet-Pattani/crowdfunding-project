@@ -1,5 +1,4 @@
 
-<h3 align="center">Building a Crowdfunding DApp on Solana with Anchor and Rust</h3>
 
 
 ## About
