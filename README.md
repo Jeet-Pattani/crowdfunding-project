@@ -9,7 +9,7 @@ Developing a crowdfunding dApp using Rust and Anchor framework on Solana. Allows
 
 
 ## Developer Resources.
-- [Solana Developer Bootcamp] (https://www.youtube.com/watch?v=amAq-WHAFs8)
+- [Solana Developer Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8)
 - [Solana Documentation](https://docs.solana.com/)
 - [Anchor Documentation](https://project-serum.github.io/anchor/)
 - [Rust Documentation](https://www.rust-lang.org/)
